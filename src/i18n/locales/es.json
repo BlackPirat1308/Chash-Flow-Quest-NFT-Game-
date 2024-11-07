@@ -1,0 +1,27 @@
+{
+  "header": {
+    "joinWaitlist": "Unirse a la Lista",
+    "title": "Domina tus Finanzas Jugando",
+    "subtitle": "Únete al último juego de educación financiera donde el aprendizaje se encuentra con las ganancias. Construye riqueza, toma decisiones estratégicas y compite con jugadores de todo el mundo.",
+    "startJourney": "Comienza tu Viaje",
+    "learnMore": "Saber Más"
+  },
+  "gamePreview": {
+    "title": "Vista Previa del Juego",
+    "subtitle": "Experimenta el futuro de la educación financiera a través de nuestro gameplay inmersivo",
+    "features": {
+      "characters": {
+        "title": "Personajes Diversos",
+        "description": "Elige entre una variedad de personajes únicos, cada uno con su propia experiencia y estrategias financieras."
+      },
+      "markets": {
+        "title": "Mercados Dinámicos",
+        "description": "Experimenta simulaciones realistas del mercado y aprende a navegar por varios escenarios financieros."
+      },
+      "rewards": {
+        "title": "Recompensas Reales",
+        "description": "Gana NFTs y activos digitales mientras dominas conceptos financieros esenciales."
+      }
+    }
+  }
+}

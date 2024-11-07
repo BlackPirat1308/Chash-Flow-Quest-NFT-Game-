@@ -1,0 +1,27 @@
+{
+  "header": {
+    "joinWaitlist": "Join Waitlist",
+    "title": "Master Your Finances Through Play",
+    "subtitle": "Join the ultimate financial education game where learning meets earning. Build wealth, make strategic decisions, and compete with players worldwide.",
+    "startJourney": "Start Your Journey",
+    "learnMore": "Learn More"
+  },
+  "gamePreview": {
+    "title": "Game Preview",
+    "subtitle": "Experience the future of financial education through our immersive gameplay",
+    "features": {
+      "characters": {
+        "title": "Diverse Characters",
+        "description": "Choose from a variety of unique characters, each with their own financial expertise and strategies."
+      },
+      "markets": {
+        "title": "Dynamic Markets",
+        "description": "Experience realistic market simulations and learn to navigate various financial scenarios."
+      },
+      "rewards": {
+        "title": "Real Rewards",
+        "description": "Earn NFTs and digital assets while mastering essential financial concepts."
+      }
+    }
+  }
+}
