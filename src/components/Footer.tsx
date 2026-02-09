@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function Footer() {
   return (
     <footer className="container mx-auto px-4 py-12 text-center text-teal-100">

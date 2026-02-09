@@ -1,4 +1,3 @@
-import React from 'react';
 import { Wallet2, TrendingUp, Trophy } from 'lucide-react';
 
 export function Features() {

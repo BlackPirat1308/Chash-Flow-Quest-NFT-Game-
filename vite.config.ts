@@ -7,4 +7,12 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  resolve: {
+    alias: {
+      // Ensure proper resolution for wagmi sub-packages
+    },
+  },
+  define: {
+    global: 'globalThis',
+  },
 });

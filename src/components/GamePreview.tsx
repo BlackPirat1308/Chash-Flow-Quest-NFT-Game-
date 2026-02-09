@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function GamePreview() {
   return (
     <section className="container mx-auto px-4 py-24">

@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, GraduationCap } from 'lucide-react';
 
 export function Education() {

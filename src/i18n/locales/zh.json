@@ -1,0 +1,27 @@
+{
+  "header": {
+    "joinWaitlist": "加入等候名单",
+    "title": "通过游戏掌握财务",
+    "subtitle": "加入终极财务教育游戏，学习与收入并行。积累财富，做出战略决策，与全球玩家竞争。",
+    "startJourney": "开始你的旅程",
+    "learnMore": "了解更多"
+  },
+  "gamePreview": {
+    "title": "游戏预览",
+    "subtitle": "通过我们的沉浸式游戏体验财务教育的未来",
+    "features": {
+      "characters": {
+        "title": "多样角色",
+        "description": "从各种独特角色中选择，每个角色都有自己的财务专长和策略。"
+      },
+      "markets": {
+        "title": "动态市场",
+        "description": "体验真实的市场模拟，学习应对各种财务场景。"
+      },
+      "rewards": {
+        "title": "真实奖励",
+        "description": "在掌握基本财务概念的同时赚取NFT和数字资产。"
+      }
+    }
+  }
+}
