@@ -9,7 +9,7 @@ export function Header() {
     <header className="container mx-auto px-4 py-16 lg:py-24">
       <nav className="flex justify-between items-center mb-16">
         <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="CashFlow Quest" className="h-16 w-auto" />
+          <img src="/logo.jpg" alt="CashFlow Quest" className="h-16 w-auto rounded-lg" />
         </div>
         <div className="flex items-center gap-4">
           <LanguageSelector />
