@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import { useWeb3Modal } from '@web3modal/wagmi/react';
+import { useAppKit } from '@reown/appkit/react';
 import { useAccount, useDisconnect } from 'wagmi';
 import { Wallet } from 'lucide-react';
 
 export function CryptoPayment() {
   const [loading, setLoading] = useState(false);
-  const { open } = useWeb3Modal();
+  const { open } = useAppKit();
   const { isConnected } = useAccount();
   const { disconnect } = useDisconnect();
 
